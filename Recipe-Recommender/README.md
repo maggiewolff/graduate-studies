@@ -9,7 +9,7 @@ Project summary: https://www.youtube.com/watch?v=gAa4Jx_Zu7I
 
 In the space of online food recipes, there are seemingly endless possibilities of new recipes to try. This project seeks to provide accurate recipe rating predictions and recipe recommendations using various methods.
 
-I was responsible for trying collaborative filtering using item- and user-based neighborhood models and matrix factorization models such as KNN, NMF, SVD, and SVDpp algorithms with the target variable of recipe ratings will be evaluated. 
+I was responsible for trying collaborative filtering using item- and user-based neighborhood models and matrix factorization models such as KNN, NMF, SVD, and SVDpp algorithms, and evaluated accuracy by using the target variable of recipe rating. 
 
 ## II. EDA Summary
 
